@@ -1,0 +1,30 @@
+.life-at-company-container {
+  display: flex;
+  margin-top: 25px;
+}
+.life-company-desc {
+  color: #fff;
+  font-family: 'Roboto';
+  line-height: 2;
+  font-size: 20px;
+  margin-right: 55px;
+}
+.company-logo {
+  width: 320px;
+  height: 270px;
+  margin-left: 55px;
+  border-radius: 8px;
+}
+.similar-job-heading {
+  color: #fff;
+  font-size: 28px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.similar-cards {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
